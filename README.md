@@ -1,6 +1,4 @@
 # Java-Marathon-by-Alishev
-
-<br><a href="https://www.youtube.com/c/alishevN">Online course JAVA.</a><br><br>
-
+<br><a href="https://www.youtube.com/c/alishevN">Online course JAVA.</a><br>
 Practical course<br>
 Java Developer<br>
