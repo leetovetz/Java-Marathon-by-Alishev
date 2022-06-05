@@ -4,11 +4,3 @@
 Practice for Beginners - <br>
 the best online Java problem-solving <br>
 <a href="https://java-marathon.tilda.ws/">marathon for beginners.</a><br><br><br>
-
-
-
-
-
-
-
-
